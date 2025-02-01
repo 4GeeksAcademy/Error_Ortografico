@@ -22,12 +22,12 @@ El sistema educativo tradicional está diseñado para ser una experiencia privad
 Cuando aprendes en público, conviertes las redes sociales en tu cuaderno de notas y tu foro de discusión. Escribes sobre lo que acabas de aprender de diferentes maneras, como entradas de blog, tweets, boletines, dibujos, memes, etc.
 
 ## ¿Por qué es esto tan importante?
-
--Cuando escribes las cosas, tu cerebro las absorbe mejor.
--Hablar de ello te obliga a organizar tus pensamientos y comprenderlo mejor.
--Tu familia y tus amigos empezarán a confiar en tus habilidades. Después de un tiempo, comenzarán a verte como un pequeño experto en la materia, acudirán a ti para pedirte un consejo, una recomendación o para contratar tus servicios.
--Compartir es un sistema de apoyo: el "síndrome del impostor" no es una broma. Cuando eres abierto y compartes tus luchas públicamente, encontrarás a otros (probablemente muchos) como tú. Eso te calmará porque sabrás que es normal y te dará fuerzas para continuar.
--Estarás mejor clasificado en los portales de empleo: los portales como LinkedIn hacen más visible tu perfil cuando publicas a menudo, potenciando tu alcance exponencialmente.
+<!--Creo que se ve mejor al estar separado-->
+-Cuando escribes las cosas, tu cerebro las absorbe mejor. <br>
+-Hablar de ello te obliga a organizar tus pensamientos y comprenderlo mejor. <br>
+-Tu familia y tus amigos empezarán a confiar en tus habilidades. Después de un tiempo, comenzarán a verte como un pequeño experto en la materia, acudirán a ti para pedirte un consejo, una recomendación o para contratar tus servicios. <br>
+-Compartir es un sistema de apoyo: el "síndrome del impostor" no es una broma. Cuando eres abierto y compartes tus luchas públicamente, encontrarás a otros (probablemente muchos) como tú. Eso te calmará porque sabrás que es normal y te dará fuerzas para continuar. <br>
+-Estarás mejor clasificado en los portales de empleo: los portales como LinkedIn hacen más visible tu perfil cuando publicas a menudo, potenciando tu alcance exponencialmente. <br>
 -Los reclutadores te encontrarán una y otra vez en @4GeeksAcademy. Hemos comprobado que los estudiantes que aprenden en público son contratados mucho más rápido; los reclutadores eventualmente comienzan a descubrirlos y los contactan para ofrecerles oportunidades de trabajo.
 
 ## ¿Cómo empezar a aprender en público?
